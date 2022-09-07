@@ -1,4 +1,4 @@
-# Robomaster2018-SEU-OpenSource
+# Robomaster-多线程-opencv视觉程序
 This is a project for Robomaster 2018 from Southeast University which includes complete process to finish the auto-shoot & rune detection tasks. Armor detection, rune detection, angle solving algorithm & drivers, serial communication are all included.
 
 This is basically the code we use during the competition.
